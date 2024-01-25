@@ -16,13 +16,14 @@ body {
     text-align: center;
     font-size: xxx-large;
 }
-.About:hover{
-     border-bottom: whitesmoke 3px solid;
+
+.Contact:hover{
+    border-bottom: whitesmoke 3px solid;
     font-size: large;
     color: aqua;
     background-color: grey;
 }
-.Contact:hover{
+.Home:hover{
     border-bottom: whitesmoke 3px solid;
     font-size: large;
     color: aqua;
@@ -62,4 +63,22 @@ body {
      border: whitesmoke 4px solid;
     border-radius: 45px;
     padding: 4px 5px;
+}
+.Map{
+    border: aqua 5px solid;
+    border-radius: 45px;
+
+}
+.Location{
+    font-family: 'Arial', sans-serif;
+    font-weight: bolder;
+    border-bottom: lightgoldenrodyellow ;
+    font-size: xx-large;
+}
+.firstdiv{
+    float: left;
+}
+.seconddiv{
+
+    text-align: center;
 }

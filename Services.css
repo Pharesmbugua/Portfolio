@@ -17,7 +17,7 @@ body {
     font-size: xxx-large;
 }
 .About:hover{
-     border-bottom: whitesmoke 3px solid;
+    border-bottom: whitesmoke 3px solid;
     font-size: large;
     color: aqua;
     background-color: grey;
@@ -28,7 +28,7 @@ body {
     color: aqua;
     background-color: grey;
 }
-.Services:hover{
+.Home:hover{
     border-bottom: whitesmoke 3px solid;
     font-size: large;
     color: aqua;

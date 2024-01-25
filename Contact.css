@@ -17,12 +17,12 @@ body {
     font-size: xxx-large;
 }
 .About:hover{
-     border-bottom: whitesmoke 3px solid;
+    border-bottom: whitesmoke 3px solid;
     font-size: large;
     color: aqua;
     background-color: grey;
 }
-.Contact:hover{
+.Home:hover{
     border-bottom: whitesmoke 3px solid;
     font-size: large;
     color: aqua;
@@ -62,4 +62,10 @@ body {
      border: whitesmoke 4px solid;
     border-radius: 45px;
     padding: 4px 5px;
+}
+.Instagram{
+    width: 4%;
+}
+.Facebook{
+    width: 4%;
 }
