@@ -63,3 +63,8 @@ body {
     border-radius: 45px;
     padding: 4px 5px;
 }
+.nav{
+    margin: 1px;
+    padding: 5px 50px;
+    float: right;
+}

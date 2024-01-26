@@ -69,3 +69,8 @@ body {
 .Facebook{
     width: 4%;
 }
+.nav{
+    margin: 1px;
+    padding: 5px 50px;
+    float: right;
+}
