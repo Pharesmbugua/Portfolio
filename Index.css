@@ -4,12 +4,11 @@ body {
     padding: .5em;
     color: white;
     font-size: larger;
-    background-color: grey;
-    background-blend-mode: color-burn;
-    background-image: url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg");
+    background-color: darkgrey;
+    background-blend-mode: multiply;
+    background-image: url("https://europeanbusinessmagazine.com/wp-content/uploads/2019/05/https___blogs-images.forbes.com_investor_files_2019_04_Aureus-imagesUK1NK2QG-e1555378021929.jpg");
 
 }
-
 .heading{
     color: lightgoldenrodyellow;
     font-family: cursive;
